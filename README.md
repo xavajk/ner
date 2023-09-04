@@ -56,7 +56,7 @@ The architecture presented in the paper implies the use of [BIO2](https://en.wik
 
 **[ELMO](https://allennlp.org/elmo)** understands both the meaning of the words and the context in which they are found, as opposed to GLOVE embeddings, which only capture the meaning of the words, and are unaware of the context.
 
-![Screen Shot 2023-08-31 at 9 46 33 PM](https://github.com/xavajk/ner/assets/95323308/bcf06b02-a801-4856-8ca3-9f358fd85263)\
+![Screen Shot 2023-08-31 at 9 46 33 PM](https://github.com/xavajk/ner/assets/95323308/bcf06b02-a801-4856-8ca3-9f358fd85263)
 
 ELMO assigns embeddings to words based on the contexts in which they are used — to both capture the word meaning in that context as well as to fetch other contextual information.
 
